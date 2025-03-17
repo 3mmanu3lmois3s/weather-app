@@ -25,6 +25,7 @@ Esta es una aplicación web de demostración (creada con Angular CLI 19.2.1) que
 
 ## Estructura del Proyecto
 
+```
 weather-app/
 ├── index.html (Vista principal)
 ├── style.css (Estilos)
@@ -32,6 +33,7 @@ weather-app/
 ├── model.js (Modelo - Lógica de datos y API)
 ├── view.js (Vista - Funciones de actualización del DOM)
 └── translations.js (Textos y traducciones)
+```
 
 ## Instalación
 
