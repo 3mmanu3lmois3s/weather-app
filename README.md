@@ -35,6 +35,10 @@ weather-app/
 └── translations.js (Textos y traducciones)
 ```
 
+## Demostración
+
+Puedes ver la aplicación en funcionamiento aquí: https://3mmanu3lmois3s.github.io/weather-app solo recuerda crear un API KEY gratuito en https://openweathermap.org (ya que deberas insertarlo en la primera pantalla de esta demo -> haciendo clic sobre la rueda dentada en la parte inferior derecha de la pantalla)
+
 ## Instalación
 
 1.  **Clona el Repositorio:**
@@ -48,7 +52,7 @@ weather-app/
     - Ve a [https://openweathermap.org/](https://openweathermap.org/)
     - Crea una cuenta gratuita.
     - Genera una API key.
-
+  
 ## Uso
 
 1.  **Abre `index.html` en tu Navegador:** No necesitas un servidor web. Simplemente abre el archivo `index.html` directamente en tu navegador.
